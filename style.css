@@ -1,0 +1,25 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+
+.logo{
+    height:10%%;
+    width:25%;
+    float:left;
+}
+h1{
+    color: orange;
+}
+.text-color{
+    color: rgb(116, 197, 197);
+}
+.half-width{
+    float:left;
+    width:40%;
+    margin-left: 5%;
+    padding:2%;
+}
