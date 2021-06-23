@@ -7,10 +7,11 @@ section{
 }
 
 .logo{
-    height:10%%;
+    height: 20%%;
     width:25%;
     float:left;
 }
+
 h1{
     color: orange;
 }
@@ -22,4 +23,12 @@ h1{
     width:40%;
     margin-left: 5%;
     padding:2%;
+}
+.panda-card{
+    border:0;
+    border-radius:40px;
+}
+.panda-card-footer{
+    border:0;
+    background-color:green;
 }
