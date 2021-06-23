@@ -2,8 +2,8 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 section{
-    height: 500px;
-    padding-bottom: 150px;
+    height: 800px;
+    padding-bottom: 300px;
 }
 
 .logo{
@@ -13,7 +13,10 @@ section{
 }
 
 h1{
-    color: orange;
+    color:blue;
+}
+h4{
+    color: teal;
 }
 .text-color{
     color: rgb(116, 197, 197);
@@ -23,12 +26,47 @@ h1{
     width:40%;
     margin-left: 5%;
     padding:2%;
+    
 }
-.panda-card{
+.mt-5{
+    background-color: lightpink;
+    height:400px;
+    border-radius: 30px;
+}
+.mt-20{
+    padding-top: 100px;
+    margin-top: 60px;
+}
+
+.yellow{
+    background-color:wheat;
+    border-radius: 40px;
+    height:60%;
+}
+.card{
     border:0;
-    border-radius:40px;
+    background-color: wheat;
 }
-.panda-card-footer{
-    border:0;
-    background-color:green;
-}
+  .card-title{
+      color: blue;
+  }
+  button{
+      width:60%;
+      
+  }
+  .card-footer{
+      border:0;
+      background-color: white;
+  }
+  .categories{
+      display: grid;
+  }
+  .option{
+      width:20%;
+      float:left;
+  }
+  .option-2{
+      width:100%;
+      height:300%;
+  }
+  
